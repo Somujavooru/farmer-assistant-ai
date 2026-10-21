@@ -12,33 +12,23 @@ assistant, and paddy pest and disease reference information.
 
 ## Screenshots
 
-Add the screenshots you captured to a folder named `screenshots/` in
-this repository, using the filenames below. Then these images will
-appear in this section on GitHub.
+### Home Dashboard
+![Farmer Assistant Home Dashboard](screenshots/home.png)
 
-  ----------------------------------------------------------------------------------
-  Home dashboard                      Crop management
-  ----------------------------------- ----------------------------------------------
-  ![Farmer Assistant                  ![Crop
-  dashboard](screenshots/home.png)    management](screenshots/crop-management.png)
+### Crop Management
+![Crop Management](screenshots/crop-management.png)
 
-  ----------------------------------------------------------------------------------
+### Paddy Crop AI & Knowledge Base
+![Paddy Crop AI](screenshots/paddy-crop-ai.png)
 
-  ----------------------------------------------------------------------------
-  Paddy pest and disease reference       AI farmer assistant
-  -------------------------------------- -------------------------------------
-  ![Paddy Crop AI knowledge              ![AI assistant
-  base](screenshots/paddy-crop-ai.png)   chat](screenshots/ai-assistant.png)
+### AI Farmer Assistant
+![AI Farmer Assistant](screenshots/ai-assistant.png)
 
-  ----------------------------------------------------------------------------
+### Farm Control
+![Farm Control](screenshots/farm-control.png)
 
-  ---------------------------------------------------------------------------
-  Farm control                            Farm expenses
-  --------------------------------------- -----------------------------------
-  ![Farm control                          ![Farm expenses
-  screen](screenshots/farm-control.png)   screen](screenshots/expenses.png)
-
-  ---------------------------------------------------------------------------
+### Farm Expenses
+![Farm Expenses](screenshots/expenses.png)
 
 ## Features
 
